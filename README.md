@@ -23,7 +23,7 @@ source\venv\bin\activate
 
 ### Склонировать репозиторий с GitLab
 ```shell
-git clone https://github.com/PaulReshetnikov/Notification-Service.git
+git clone https://github.com/PaulReshetnikov/Notification_Service
 ```
 
 ### Установка зависимостей:
